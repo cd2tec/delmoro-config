@@ -1,0 +1,5 @@
+{
+  "show_signup_button": true,
+  "signup_button_text": "Não tem uma conta? Clique para se Registrar",
+  "signup_url": "http://144.22.160.136:3000/register"
+}
